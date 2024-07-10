@@ -1,0 +1,13 @@
+Change Net Name : Old Net Name=NetJ2_A6 New Net Name=3_P
+Change Net Name : Old Net Name=NetJ2_A7 New Net Name=3_N
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=0_N
+Change Net Name : Old Net Name=NetJ3_3 New Net Name=0_P
+Change Net Name : Old Net Name=NetJ4_A6 New Net Name=1_P
+Change Net Name : Old Net Name=NetJ4_A7 New Net Name=1_N
+Change Net Name : Old Net Name=NetJ4_B6 New Net Name=2_P
+Change Net Name : Old Net Name=NetJ4_B7 New Net Name=2_N
+Added Class: Name=diff3
+Added Differential Pair: Name=0
+Added Differential Pair: Name=1
+Added Differential Pair: Name=2
+Added Differential Pair: Name=3

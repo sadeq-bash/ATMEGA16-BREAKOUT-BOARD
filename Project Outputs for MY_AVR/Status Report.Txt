@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [MY_AVR.PrjPcb]
+   Generated File[MY_AVR.GTO]
+   Generated File[MY_AVR.GTP]
+   Generated File[MY_AVR.GTS]
+   Generated File[MY_AVR.GTL]
+   Generated File[MY_AVR.GBL]
+   Generated File[MY_AVR.GBS]
+   Generated File[MY_AVR.GBP]
+   Generated File[MY_AVR.GBO]
+   Generated File[MY_AVR.GM]
+   Generated File[MY_AVR.EXTREP]
+   Generated File[MY_AVR.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 3:03:47 AM On 5/21/2024

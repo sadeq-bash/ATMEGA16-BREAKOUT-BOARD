@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=serial_data1 Pin=U1-19
+Removed Pin From Net: NetName=serial_data2 Pin=U1-20
+Removed Pin From Net: NetName=serial_data3 Pin=U1-21
+Added Pin To Net: NetName=serial_data0 Pin=U1-19
+Added Pin To Net: NetName=serial_data1 Pin=U1-20
+Added Pin To Net: NetName=serial_data2 Pin=U1-21
+Added Pin To Net: NetName=serial_data3 Pin=U1-22

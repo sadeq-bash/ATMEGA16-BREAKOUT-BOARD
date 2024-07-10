@@ -1,0 +1,19 @@
+Change Net Name : Old Net Name=CLK1 New Net Name=NetJ4_A5
+Change Net Name : Old Net Name=CLK2 New Net Name=NetJ4_B5
+Change Net Name : Old Net Name=CLK3 New Net Name=NetJ2_A5
+Change Net Name : Old Net Name=USB+ New Net Name=NetJ3_3
+Change Net Name : Old Net Name=USB- New Net Name=NetJ3_2
+Change Net Name : Old Net Name=USB_DP_N1 New Net Name=NetJ4_A7
+Change Net Name : Old Net Name=USB_DP_N2 New Net Name=NetJ4_B7
+Change Net Name : Old Net Name=USB_DP_N3 New Net Name=NetJ2_A7
+Change Net Name : Old Net Name=USB_DP_P1 New Net Name=NetJ4_A6
+Change Net Name : Old Net Name=USB_DP_P2 New Net Name=NetJ4_B6
+Change Net Name : Old Net Name=USB_DP_P3 New Net Name=NetJ2_A6
+Add Differential Pair: Number of nets in differential pair NetJ2_A6 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ2_A7 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ3_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ3_3 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ4_A6 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ4_A7 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ4_B6 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ4_B7 is 1 instead of 2
